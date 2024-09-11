@@ -13,7 +13,6 @@
 
 ## About The Project
 
-<img src="assets/images/talkglobal_snippet.png" alt="screenshot" width="" >
 
 # What it does
 This is an AI language translation mobile application that support about eight languages. This app leverages the power of Flutter for the frontend, Google Generative AI for language translation.
